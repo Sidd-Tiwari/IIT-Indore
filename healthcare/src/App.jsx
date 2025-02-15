@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
-      <div className="">Hello Siddharth</div>
+    {/* {<div className="">Hello Siddharth</div>} */}
       <NavBar/>
-      <Login/>
+      {/* <Login/> */}
     </>
   )
 }
